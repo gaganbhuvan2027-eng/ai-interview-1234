@@ -1,0 +1,1 @@
+"# ai-interview-1234"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/gaganbhuvan2027-eng/ai-interview-1234.gitgit push -u origin main
